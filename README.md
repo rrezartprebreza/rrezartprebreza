@@ -1,14 +1,69 @@
-# Rrezart Prebreza, PhD
+# Hi, I'm Rrezart.
 
-**Senior Java Engineer | Technical Lead | Professor & Researcher**
+**Rrezart Prebreza, PhD** | Senior Java Engineer | Technical Lead | Professor & Researcher
 
-I work on enterprise fintech applications, data systems, and AI-powered learning tools. My experience spans backend architecture, secure authentication, application modernization, cloud delivery, and university teaching. I hold a PhD in Computer Systems and Technologies and lead the HEALTH-AI project.
+Java and Spring Boot engineering, AI-assisted development, and teaching.
+
+[GitHub](https://github.com/rrezartprebreza) · [Website](https://rrezartprebreza.github.io/spring-boot-skills/) · [LinkedIn](https://www.linkedin.com/in/rrezartprebreza/) · [Research](https://orcid.org/0009-0009-2518-3169)
+
+---
+
+## About Me
+
+My work connects enterprise software engineering with teaching and research. I develop fintech applications and data systems, work on backend architecture and authentication, and teach Java, Spring Boot, software engineering, and artificial intelligence.
+
+I hold a PhD in Computer Systems and Technologies and lead the HEALTH-AI project. My research also explores AI-powered learning tools, including adaptive debugging and tutoring.
 
 I also build open-source tools for Java, Spring Boot, and AI-assisted development, with a focus on practical engineering guidance and consistent project conventions.
 
-[LinkedIn](https://www.linkedin.com/in/rrezartprebreza/) · [ORCID](https://orcid.org/0009-0009-2518-3169) · [Spring Boot Skills website](https://rrezartprebreza.github.io/spring-boot-skills/)
+## Engineering Focus
+
+| Area | My work |
+| --- | --- |
+| Java & Spring Boot | Backend services, REST APIs, persistence, messaging, and application modernization. |
+| Security & identity | Authentication and authorization with Spring Security, Keycloak, OAuth2, and JWT. |
+| Data systems | Statistical reporting, SDMX exchange, relational databases, and reporting automation. |
+| AI & developer tools | Spring AI, LLM integrations, RAG, and reusable guidance for Claude Code and Codex. |
+| Cloud delivery | Azure deployments, Docker, and CI/CD pipelines. |
+| Teaching & research | Software engineering education, thesis review, and AI-assisted learning. |
+
+## Explore My Projects
+
+| Project | What you'll find |
+| --- | --- |
+| [Spring Boot Skills](https://github.com/rrezartprebreza/spring-boot-skills) | Task-specific guidance for Claude Code and Codex, with separate Spring Boot 3 and Spring Boot 4 versions. |
+| [AgentAccord](https://github.com/rrezartprebreza/agentaccord) | Checks for team engineering rules in AI instructions, skills, and source code. |
+| [REST API Generator](https://github.com/rrezartprebreza/rest-api-generator) | Spring Boot REST API generation from plain-English prompts using AI. |
+| [CodeQuest](https://github.com/rrezartprebreza/codequest) | AI-assisted adaptive debugging and tutoring. |
+
+### Featured: Spring Boot Skills
+
+**34 topics for Claude Code and Codex, each with Boot 3 and Boot 4 versions.**
+
+The collection covers architecture, REST APIs, persistence, security, testing, observability, Spring AI, and MCP. Each skill gives an agent task-specific instructions, examples, and pitfalls to check against your project's conventions.
+
+- Choose the Boot version that matches your application.
+- Install individual skills or a version-specific plugin for Claude Code or Codex.
+- Review the documented verification coverage and test changes in your own project.
+
+[Browse the catalog](https://rrezartprebreza.github.io/spring-boot-skills/) · [Installation guide](https://github.com/rrezartprebreza/spring-boot-skills#-quick-start) · [Verification coverage](https://github.com/rrezartprebreza/spring-boot-skills/blob/main/verification/MATRIX.md)
+
+---
 
 ## Professional Experience
+
+My experience includes enterprise development, Java team leadership, consulting, and university teaching. Some roles overlap in time.
+
+| Role | Period |
+| --- | --- |
+| Senior Java Engineer / Java Team Lead | March 2024 - Present |
+| Software Engineer | April 2016 - Present |
+| Professor | October 2019 - Present |
+| Senior Software Engineer | May 2023 - February 2024 |
+| Senior Java Consultant | 2021 - May 2023 |
+
+<details>
+<summary><strong>Experience details and responsibilities</strong></summary>
 
 ### Senior Java Engineer / Java Team Lead
 **March 2024 - Present**
@@ -49,6 +104,8 @@ I also build open-source tools for Java, Spring Boot, and AI-assisted developmen
 - Built front-end functionality with Angular.
 - Used RabbitMQ for messaging, integrated Keycloak authentication, and worked with Docker containers.
 
+</details>
+
 ## Technical Skills
 
 | Area | Technologies |
@@ -76,26 +133,10 @@ Additional training includes object-oriented programming in Java, Spring Boot an
 
 [Research profile on ORCID](https://orcid.org/0009-0009-2518-3169)
 
-## Spring Boot Skills
-
-**Spring Boot skills for Claude Code and Codex, with separate Spring Boot 3 and Spring Boot 4 versions.**
-
-The collection covers 34 topics, including architecture, REST APIs, persistence, security, testing, observability, Spring AI, and MCP. Skills provide task-specific instructions, examples, and pitfalls to check against your project's conventions.
-
-- Choose the Boot 3 or Boot 4 version that matches your application.
-- Install individual skills or a version-specific plugin for Claude Code or Codex.
-- Browse examples and the documented verification coverage before adapting them to your project.
-
-[Browse the catalog](https://rrezartprebreza.github.io/spring-boot-skills/) · [View the repository](https://github.com/rrezartprebreza/spring-boot-skills) · [Installation guide](https://github.com/rrezartprebreza/spring-boot-skills#-quick-start)
-
-## More Projects
-
-| Project | Focus |
-| --- | --- |
-| [AgentAccord](https://github.com/rrezartprebreza/agentaccord) | Check team engineering rules in AI instructions, skills, and source code. |
-| [REST API Generator](https://github.com/rrezartprebreza/rest-api-generator) | Generate Spring Boot REST APIs from plain-English prompts using AI. |
-| [CodeQuest](https://github.com/rrezartprebreza/codequest) | AI-assisted adaptive debugging and tutoring. |
+---
 
 ## Connect
 
-For professional connections, find me on [LinkedIn](https://www.linkedin.com/in/rrezartprebreza/). For project feedback, bug reports, or contributions, open an issue or pull request in the relevant repository.
+For engineering, teaching, or research conversations, connect with me on [LinkedIn](https://www.linkedin.com/in/rrezartprebreza/). My [ORCID profile](https://orcid.org/0009-0009-2518-3169) provides a research reference.
+
+For project feedback, bug reports, or contributions, open an issue or pull request in the relevant repository. Include the project version and a reproducible example where possible.
