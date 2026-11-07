@@ -21,6 +21,7 @@ I also build open-source tools for Java, Spring Boot, and AI-assisted developmen
 | Area | My work |
 | --- | --- |
 | Java & Spring Boot | Backend services, REST APIs, persistence, messaging, and application modernization. |
+| C# & .NET Framework | Application development alongside the Java stack. |
 | Security & identity | Authentication and authorization with Spring Security, Keycloak, OAuth2, and JWT. |
 | Data systems | Statistical reporting, SDMX exchange, relational databases, and reporting automation. |
 | AI & developer tools | Spring AI, LLM integrations, RAG, and reusable guidance for Claude Code and Codex. |
@@ -70,7 +71,7 @@ My experience includes enterprise development, Java team leadership, consulting,
 
 - Develop and maintain enterprise fintech applications with Java EE, Spring Boot, REST APIs, MariaDB, and Liquibase.
 - Contribute to backend architecture and secure authentication workflows with Keycloak, collaborating with international remote teams.
-- Develop React applications and contribute to .NET Framework applications alongside the Java stack.
+- Develop React applications and contribute to C# and .NET Framework applications alongside the Java stack.
 - Deploy and operate applications on Microsoft Azure using Azure DevOps pipelines, App Service, and Azure SQL.
 
 ### Software Engineer
@@ -110,7 +111,7 @@ My experience includes enterprise development, Java team leadership, consulting,
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Java 21, Python, SQL, TypeScript |
+| Languages | Java 21, C#, Python, SQL, TypeScript |
 | Backend | Java EE, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs, .NET Framework |
 | AI | Spring AI, LLM integration, RAG pipelines, prompt engineering, AI agent tooling |
 | Security | Spring Security, Keycloak, OAuth2, JWT |
