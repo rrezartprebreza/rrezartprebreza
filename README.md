@@ -22,6 +22,7 @@ I also build open-source tools for Java, Spring Boot, and AI-assisted developmen
 | --- | --- |
 | Java & Spring Boot | Backend services, REST APIs, persistence, messaging, and application modernization. |
 | C# & .NET Framework | Application development alongside the Java stack. |
+| React & Angular | Front-end development for enterprise applications and AI-powered learning tools. |
 | Security & identity | Authentication and authorization with Spring Security, Keycloak, OAuth2, and JWT. |
 | Data systems | Statistical reporting, SDMX exchange, relational databases, and reporting automation. |
 | AI & developer tools | Spring AI, LLM integrations, RAG, and reusable guidance for Claude Code and Codex. |
